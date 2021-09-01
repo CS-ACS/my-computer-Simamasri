@@ -1,4 +1,4 @@
-Computer Specs: 
+# Computer Specs: 
 MacBook Air 13 inches (version 10.12.6)
 The Operating System is macOS Sierra.
 Central Processing Unit (CPU): This is the part/chip of the computer were data is processed and were logic and calculations take place.
