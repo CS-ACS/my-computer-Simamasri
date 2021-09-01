@@ -6,6 +6,6 @@ Random Acess Memory (RAM): is defined by the size of the RAM capacity this allow
 STORAGE: 1212 GB flash storage 
 WIRLESS WIFI AND BLUETOOTH: All features all available, the wifi allows you to connect to the internet and the bluetooth allows you to sync with other devices and transfer data.
 PORTS: Two USB's, power outlet, microphone, headphone jack and a chip slot. 
-##Commentary
+# Commentary
 -I do like my computer, it's light it has good audio and a clear screen it has both an Arabic and English keyboard, but I think it's time for a new one because the harddrive is slow and it glitches sometimes during upload.
 -The way my computers performance is affected by it's hardware configuration is hard disk speed, the hardrive speed, sometimes the number of applications/ programs running and open does slow down your computer and affects the transfer of data and processing of programs.What makes my computer slow down is the size of the files,age of the hardrive and connectivity to wifi and ports which is impactd by the speed of the internet available.
