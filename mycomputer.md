@@ -11,4 +11,4 @@ My name is Sima from 10th grade, these are my laptop specifications:
  ## Commentary
 1. I do like my computer, it's light it has good audio and a clear screen it has both an Arabic and English keyboard, but I think it's time for a new one because the hard drive is slow so I'm thinking of changing it into **SSD drive** (Solid State Drive) and it glitches sometimes during upload.
 2. The way my computers performance is affected by it's hardware configuration is hard disk speed, the hardrive speed, sometimes the number of applications/ programs running and open does slow down your computer and affects the transfer of data and processing of programs.What makes my computer slow down is the size of the files,age of the hardrive and connectivity to wifi and ports which is impactd by the speed of the internet available.
-3.In conclusion, I've learnt how to discover the specifcations of my laptop and knowing the **input and output devices**, as well as storage devices.
+3. In conclusion, I've learnt how to discover the specifcations of my laptop and knowing the **input and output devices**, as well as storage devices.
